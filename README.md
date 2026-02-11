@@ -9,3 +9,6 @@
 ### pip install -r requirements.txt
 
 ### mkdir mlruns
+
+
+### prueba local
